@@ -1,0 +1,24 @@
+﻿Number,Columns,Description,Category,,,,
+1,US Tech Equities,1 day pct change of US Tech Equities,Equities,,,Equities,6
+2,US Equities,1 day pct change of US Equities,Equities,,,Bond,7
+3,Japan Equities,1 day pct change of Japan Equities,Equities,,,Commodity,3
+4,Euro Equities,1 day pct change of Euro Equities,Equities,,,FX,6
+5,UK Equities,1 day pct change of UK Equities,Equities,,,TOTAL,22
+6,EM Equities,1 day pct change of EM Equities,Equities,,,,
+7,US 2Y Bond,1 day pct change of US 2Y Bond,Bond,,,,
+8,US 10Y Bond,1 day pct change of US 10Y Bond,Bond,,,,
+9,Germany 10Y Bond,1 day pct change of Germany 10Y Bond,Bond,,,,
+10,UK 10Y Bond,1 day pct change of UK 10Y Bond,Bond,,,,
+11,Japan 10Y Bond,1 day pct change of Japan 10Y Bond,Bond,,,,
+12,Australia 10Y Bond,1 day pct change of Australia 10Y Bond,Bond,,,,
+13,Canada 10Y Bond,1 day pct change of Canada 10Y Bond,Bond,,,,
+14,Gold,1 day pct change of Gold,Commodity,,,,
+15,Oil Brent,1 day pct change of Oil Brent,Commodity,,,,
+16,Copper,1 day pct change of Copper,Commodity,,,,
+17,FX AUD/USD,1 day pct change of FX AUD/USD,FX,,,,
+18,FX CAD/USD,1 day pct change of FX CAD/USD,FX,,,,
+19,FX CHF/USD,1 day pct change of FX CHF/USD,FX,,,,
+20,FX EUR/USD,1 day pct change of FX EUR/USD,FX,,,,
+21,FX GBP/USD,1 day pct change of FX GBP/USD,FX,,,,
+22,FX JPY/USD,1 day pct change of FX JPY/USD,FX,,,,
+23,FundReturn,1 day pct change of FundReturn,Ouput,,,,
